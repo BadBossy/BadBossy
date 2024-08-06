@@ -1,7 +1,7 @@
 My name is **Hendrik** aka TheBadBossy. I am an experienced software developer from Germany (Rhineland-Palatinate).
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=BadBossy&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=BadBossy&show_icons=true">
 </picture>
 

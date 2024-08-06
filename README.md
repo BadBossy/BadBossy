@@ -10,8 +10,9 @@ My name is **Hendrik** aka TheBadBossy. I am an experienced software developer f
 -   :seedling: On the road to be an angular expert
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/BadBossy/BadBossy/discussions/new)!
 -   :star: [Projects starred by me](AWESOME-STARS.md)
-
+<!--
 ---
+-->
 <!--
 ### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
 -->
@@ -24,8 +25,9 @@ My name is **Hendrik** aka TheBadBossy. I am an experienced software developer f
 -   2023-12-03 [THUCTF2023 IoT 赛道 WriteUp](https://ouuan.moe/post/2023/12/thuctf2023-iot-writeup?utm_source=GitHubProfile)
 -->
 <!--END_SECTION:blog-posts-->
-
+<!--
 ---
+-->
 <!--
 ### :sparkles: [My followers](src/getTopFollowers.py)
 -->
@@ -188,8 +190,9 @@ My name is **Hendrik** aka TheBadBossy. I am an experienced software developer f
 </table>
 -->
 <!--END_SECTION:top-followers-->
-
+<!--
 ---
+-->
 <!--
 ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 -->

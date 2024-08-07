@@ -15,4 +15,9 @@ My name is **Hendrik** aka TheBadBossy. I am an experienced software developer f
 ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 -->
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->

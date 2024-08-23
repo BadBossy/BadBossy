@@ -17,11 +17,7 @@ My name is **Hendrik** aka TheBadBossy. I am an experienced software developer f
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 21 mins   >>>>>>>>>>>>>>>>>>>>>----   83.89 %
-Other        10 mins         >>-----------------------   06.31 %
-Git Config   5 mins          >------------------------   03.02 %
-TypeScript   4 mins          >------------------------   02.92 %
-HTML         3 mins          -------------------------   01.85 %
+JavaScript   4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->

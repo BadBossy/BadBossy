@@ -6,29 +6,15 @@
 ## Contents
 
 - [Astro](#astro)
-- [JavaScript](#javascript)
-- [Python](#python)
 - [TypeScript](#typescript)
 
 ## Astro 
 
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 
-## JavaScript 
-
-- [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
-- [taniarascia/taniarascia.com](https://github.com/taniarascia/taniarascia.com) - 💾 ‎  Personal website running on Gatsby, React, and Node.js.
-- [sanajitjana/React-Portfolio](https://github.com/sanajitjana/React-Portfolio) - A modern and responsive developer portfolio built with React.js to showcase projects and skills.
-- [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template
-
-## Python 
-
-- [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
-
 ## TypeScript 
 
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
-- [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 
 

@@ -12,7 +12,7 @@ My name is **Hendrik** aka TheBadBossy. I am an experienced software developer f
 -   :star: [Projects starred by me](AWESOME-STARS.md)
 ---
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+### :bar_chart: [Coding time in the last 7 days](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
 
